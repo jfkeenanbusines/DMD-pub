@@ -1,0 +1,12 @@
+#one {
+    margin: 10%;
+    width: 90%;
+    height: 90%;
+    background-color: rgb(245, 238, 210);
+}
+
+#boxone {
+    width: 61%;
+    height: auto;
+    background-color: coral;
+}
